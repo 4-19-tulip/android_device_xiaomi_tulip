@@ -344,7 +344,8 @@ PRODUCT_COPY_FILES += \
 
 # QMI
 PRODUCT_PACKAGES += \
-    libjson
+    libjson \
+    libvndfwk_detect_jni.qti
 
 # RIL
 PRODUCT_PACKAGES += \
