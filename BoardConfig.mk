@@ -82,6 +82,9 @@ TARGET_ENABLE_MEDIADRM_64 := true
 # DT2W
 TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
 
+# Encryption
+TARGET_HW_DISK_ENCRYPTION := true
+
 # FM
 BOARD_HAVE_QCOM_FM := true
 AUDIO_FEATURE_ENABLED_FM_POWER_OPT := true
