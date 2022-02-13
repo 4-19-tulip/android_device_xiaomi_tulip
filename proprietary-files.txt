@@ -1211,8 +1211,6 @@ vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc|2cfc563d7e157937
 vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|8837d8d38f9448c729a2e7ca196067d7c0e7ecd3
 
 # Widevine - from LA.UM.9.12.r1-14100.02-SMxx50.QSSI12.0
-vendor/bin/hw/android.hardware.drm@1.2-service.widevine|1aed116c6cd73ee0c89a5eec050afab5c64b9f87
-vendor/etc/init/android.hardware.drm@1.2-service.widevine.rc|dee5b7838ac561a2292e89fc0c4ccd1932224215
 vendor/lib64/libwvhidl.so|acf4870a0b10af74a40a4c6180f2c10a1706ddbd
 
 # Wifi - from LA.UM.9.12.r1-14100.02-SMxx50.QSSI12.0
